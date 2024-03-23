@@ -14,7 +14,7 @@ This script is written because the shortcut FN+F2/FN+F3 for HP OMEN9 screen brig
    For brighter:
 
    Alt+F3
-
+ 
    /home/usrname/screen_brigntness_hotkey/brightness_up.out
    
 6. Adjust the brightness for your screen with Hotkeys.
