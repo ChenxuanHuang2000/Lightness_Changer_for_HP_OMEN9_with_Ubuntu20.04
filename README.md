@@ -1,5 +1,5 @@
 # Lightness_Changer_for_HP_OMEN9_with_Ubuntu20.04
-This script is written because the shortcut FN+F2/FN+F3 for HP OMEN9 screen brightness adjustment under HP OMEN20.04 is effective, and this failure may be caused by the optimization of ubuntu20.04 system for Mac. The script works by using the built-in keyboard shortcut function of the Ubuntu system to adjust the screen brightness. The instructions for use are as follows:
+This script is written because the shortcut FN+F2/FN+F3 for HP OMEN9 screen brightness adjustment under HP OMEN20.04 is invalid, and this failure may be caused by the optimization of ubuntu20.04 system for Mac. The script works by using the built-in keyboard shortcut function of the Ubuntu system to adjust the screen brightness. The instructions for use are as follows:
 1. Gitclone，and compile it with g++.
 2. “sudo chmod 666 /sys/class/backlight/nvidia_wmi_ec_backlight/brightness”， to set read/write permissions for the screen brightness file
 3. Set the startup shortcut keys for the two executable files formed after compilation in System Settings-Keyboard-Hotkeys, you can refer to my own settings:
